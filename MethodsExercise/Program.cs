@@ -66,7 +66,7 @@ namespace MethodsExercise
 
                 Console.WriteLine();
 
-                Console.WriteLine($"The Amount of cars and drivers on the road is: {amountOfCars + amountOfDrivers} The cost of car insurance is: {costOfCarInsurance}. The average cost is: {avgCost} ").;
+                Console.WriteLine($"The Amount of cars and drivers on the road is: {amountOfCars + amountOfDrivers} The cost of car insurance is: {costOfCarInsurance}. The average cost is: {avgCost} ");
 
                 
                 
